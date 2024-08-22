@@ -1,0 +1,16 @@
+flutter_native_splash:
+  background_image: "assets/images/splash_screen.PNG"
+#  color: "#FFFFFFFF"  # Background color
+#  #  fill: true    # Your splash image
+#  android: true
+#  ios: true
+#  web: true
+#  fullscreen: true
+  android_12:
+    background_image: "assets/images/splash_screen.PNG"
+#    color: "#FFFFFFFF"  # Background color
+    #  fill: true    # Your splash image
+    android: true
+    ios: true
+    web: true
+    fullscreen: true
